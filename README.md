@@ -1,4 +1,12 @@
+<a name="readme-top"></a>
 
+<div align="center">
+  <img src="" alt="logo" width="140"  height="auto" style="border-radius:30px;" />
+  <br/>
+
+  <h3><b>Awesome Books</b></h3>
+
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -41,7 +49,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML & CSS</a></li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
   </ul>
 </details>
 
@@ -104,14 +114,14 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> features that will be added to the project.
+<!--> features that will be added to the project.
 
 <!-- [ ] **Hero section**
 - [ ] **Navbar**
 - [ ] **featured-in-section**
 - [ ] **Live-demos of projects**
 - [ ] **about-myself**
-- [ ] **contact-form**
+- [ ] **contact-form**-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

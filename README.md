@@ -83,18 +83,24 @@ Clone this repository to your desired folder:
 
 > Mention all of the collaborators of this project.
 
-👤 **Misikir Delelew Mulate**
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 ****
+👤 **Misikir Delelew Mulate**
 
 - GitHub: [@github/MishMD](https://github.com/MishMD)
 - Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/misikir-delelew-114a5946)
+
+👤 **Okolo Oshoke**
+
+- GitHub: [@lorenzoworx](https://github.com/lorenzoworx)
+- Twitter: [@lorenzoworx](https://twitter.com/lorenzoworx)
+- LinkedIn: [Oshoke Okolo]https://www.linkedin.com/in/oshoke-okolo-665208108/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

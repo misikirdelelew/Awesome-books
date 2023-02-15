@@ -26,11 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Capstone Project <a name="about-project"></a>
+# 📖 Awsome book <a name="about-project"></a>
 
 >  This Awsome Books Project is developed by javascript with microverse requirnment.
-
-**Capstone Project** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -104,14 +102,14 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> features that will be added to the project.
+<!--> features that will be added to the project.
 
 - [ ] **Hero section**
 - [ ] **Navbar**
 - [ ] **featured-in-section**
 - [ ] **Live-demos of projects**
 - [ ] **about-myself**
-- [ ] **contact-form**
+- [ ] **contact-form**-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -11,7 +11,7 @@ class Book {
 
 class BookCollection {
   constructor() {
-    this.books = JSON.parse(localStorage.getItem('awsomebook')) || [];
+    this.books = JSON.parse(localStorage.getItem('awsomebook')) ?? [];
     this.booksContainer = document.querySelector('#create_top_section_container');
     this.submitButton = document.querySelector('#btn_submit');
     this.submitForm = document.forms.formElement;

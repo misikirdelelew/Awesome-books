@@ -15,7 +15,11 @@ h1 {
   margin: 0;
 }
 
+<<<<<<< HEAD
 main {
+=======
+main{
+>>>>>>> 234678cdaa15948c514a5cfb8d569b6ee31f53c4
   display: flex;
   flex-direction: column;
   width: 80vw;
@@ -30,12 +34,20 @@ main {
   width: 100%;
   border: 3px solid black;
   padding-left: 4px;
+<<<<<<< HEAD
   padding-right: 12px;
+=======
+  padding-right: 10px;
+>>>>>>> 234678cdaa15948c514a5cfb8d569b6ee31f53c4
   margin-bottom: 10px;
 }
 
 #create_top_section_container > div:nth-child(odd) {
+<<<<<<< HEAD
   background-color: rgb(184, 184, 184);
+=======
+ background-color: rgb(184, 184, 184);
+>>>>>>> 234678cdaa15948c514a5cfb8d569b6ee31f53c4
 }
 
 #create_top_section_container > div:nth-child(even) {
@@ -45,7 +57,11 @@ main {
 .book_list {
   display: flex;
   width: 100%;
+<<<<<<< HEAD
   justify-content: space-between;
+=======
+  justify-content: space-between;  
+>>>>>>> 234678cdaa15948c514a5cfb8d569b6ee31f53c4
 }
 
 .details {
@@ -91,7 +107,11 @@ main {
   border: 3px solid black;
 }
 
+<<<<<<< HEAD
 .div_btn_submit {
+=======
+.div_btn_submit{
+>>>>>>> 234678cdaa15948c514a5cfb8d569b6ee31f53c4
   display: flex;
   justify-content: flex-end;
   width: 50%;
@@ -116,3 +136,5 @@ main {
 .btn_remove:hover {
   color: black;
 }
+
+

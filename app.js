@@ -1,3 +1,13 @@
+/* eslint-disable max-classes-per-file */
+
+class Book {
+  constructor(id, title, author) {
+    this.id = id;
+    this.title = title;
+    this.author = author;
+  }
+}
+
 let awsomebook = [];
 function showBooks() {
   let booksHTML = '';

@@ -35,7 +35,7 @@ main{
 }
 
 #create_top_section_container > div:nth-child(odd) {
-  background-color: whitesmoke;
+ background-color: rgb(184, 184, 184);
 }
 
 #create_top_section_container > div:nth-child(even) {

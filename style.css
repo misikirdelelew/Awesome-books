@@ -34,11 +34,11 @@ main {
   margin-bottom: 10px;
 }
 
-#create_top_section_container>div:nth-child(odd) {
+#create_top_section_container > div:nth-child(odd) {
   background-color: rgb(184, 184, 184);
 }
 
-#create_top_section_container>div:nth-child(even) {
+#create_top_section_container > div:nth-child(even) {
   background-color: white;
 }
 

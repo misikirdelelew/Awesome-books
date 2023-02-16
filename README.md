@@ -43,11 +43,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-<<<<<<< HEAD
-# 📖 Awsome Book <a name="about-project"></a>
-=======
 # 📖 [AWESOME LIBRARY] <a name="about-project"></a>
->>>>>>> 1f77323f8f85b5235387b4a964d36289448f547d
 
 
 
@@ -61,17 +57,6 @@
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
 
-<<<<<<< HEAD
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
-  </ul>
-</details>
-=======
->>>>>>> 1f77323f8f85b5235387b4a964d36289448f547d
 
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
@@ -173,18 +158,9 @@ npx eslint .
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-<<<<<<< HEAD
-<!-- [ ] **Hero section**
-- [ ] **Navbar**
-- [ ] **featured-in-section**
-- [ ] **Live-demos of projects**
-- [ ] **about-myself**
-- [ ] **contact-form**-->
-=======
 - [ ] **[Navigation bar]**
 - [ ] **[Use of classess]**
 - [ ] **[Better style and design]**
->>>>>>> 1f77323f8f85b5235387b4a964d36289448f547d
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

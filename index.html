@@ -13,15 +13,19 @@
 
 <body>
     <header>
-        <h1>Awesome Books</h1>
+        <h1>All Awesome Books</h1>
     </header>
     <main>
         <section id="create_top_section_container"></section>
-        <section>
+        <hr class="rule">
+        <section class="formSection">
+            <h2>Add a new Book</h2>
             <form id="formElement">
                 <input name="name_input" id="title" placeholder="Title" />
                 <input name="author_input" id="author" placeholder="Author" />
-                <button type="submit" id="btn_submit">Add</button>
+                <div class="div_btn_submit">
+                    <button type="submit" id="btn_submit">Add</button>
+                </div>
             </form>
         </section>
     </main>

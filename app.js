@@ -43,8 +43,11 @@ class BookCollection {
     this.books.forEach((b) => {
       booksHTML += `
         <div class='book_list'>
-          <h3>${b.title}</h3>
-          <p>${b.author}</p>
+          <div class='details'>
+            <p>"${b.title}"&nbsp;</p>
+            <p>by &nbsp;</p>
+            <p>${b.author}</p>
+            </div>
           <button onClick='bookCollection.removeBook(${b.id})' class='btn_remove'>Remove</button>
         </div>
       `;
